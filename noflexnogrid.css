@@ -1,0 +1,171 @@
+body{
+    margin: 0;
+
+}
+
+.Block{
+    background-color: rgb(99, 37, 37);
+    border: 1px solid rgb(122, 96, 2);
+}
+
+.Upper{
+    width: 99vw;
+    height: 15vh;
+}
+
+.Middle{
+    margin: 0;
+    height: 70vh;
+    width: 99vw;
+    background-color: rgb(225, 169, 0);
+}
+
+.Second{
+    height: 44.5vh;
+    width: 15vw;
+    border: 1px solid rgb(122, 96, 2);
+    background-color: rgb(99, 37, 37);
+    text-align: center;
+}
+
+.Third{
+    height: 44.5vh;
+    width: 15vw;
+    border: 1px solid rgb(122, 96, 2);
+    background-color: rgb(99, 37, 37);
+}
+
+.left{
+    height: 70.2vh;
+    width: 45vw;
+    float: left;
+    /*border-spacing: 1vw;*/
+}
+
+
+.sixth{
+    border: 1px solid rgb(122, 96, 2);
+    background-color: rgb(99, 37, 37);
+    text-align: center;  
+}
+
+
+.Space{
+    width: 5vw;
+}
+
+
+.Right{
+    height: 70vh;
+    width: 48vw;
+    margin-left: 51vw;
+}
+
+.fourth{
+    border: 1px solid rgb(122, 96, 2);
+    background-color: rgb(99, 37, 37);
+    width: 18vw;
+    text-align: center;
+    padding-bottom: 10%;
+}
+
+.fifth{
+    border: 1px solid rgb(122, 96, 2);
+    background-color: rgb(99, 37, 37);
+    width: 18vw;
+}
+
+.Upper_table{
+    width: 15vw;
+    height: 14vh;
+}
+
+
+.Icon{
+    width: 6vw;
+    height: 14vh;
+    display: flex;
+    margin: 0 1%;
+}
+
+
+
+.Anthem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    order: 1;
+    grid-column-start: 14;
+    background-color: rgb(99, 37, 37);
+    border: 1px solid black;
+    width: 15vw;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 21px;
+    height: 5vh;
+    padding: 0.5%;
+    color: rgb(186, 196, 196);
+    text-align: center;
+}
+
+.Coin{
+    padding-left: 2%;
+}
+
+.Hades{
+    padding-right: 4vw;
+}
+
+
+.Gods{
+    padding-left: 3vw;
+}
+
+.header{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(186, 196, 196);
+    font-size: x-large;
+    margin: 0%;
+}
+
+.Paragraph{
+    font-size: 95%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(186, 196, 196);
+}
+
+.Platinum{
+    height: 41vh;
+    width: 11vw;
+}
+
+.Skelly{
+    height: 45vh;
+    width: 17vw;
+}
+
+.menu{
+    width: 21vw;
+    height: 20vh;
+    padding: 5%;
+    border-spacing: 5vh;
+    margin: 0 0 50% 5%;
+}
+
+.Row{
+    text-align: center;
+    background-color: rgb(226, 92, 43);
+    border-radius: 7px;
+    font-size:x-large;
+    place-items: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(212, 212, 183);
+}
+
+.Link{
+    color:rgb(212, 212, 183);
+}
+
+.Awards{
+    height: 22vh;
+}
